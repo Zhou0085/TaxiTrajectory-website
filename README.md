@@ -26,5 +26,5 @@
     ```Bash
     http://localhost:3000/
     ```
-    进行测试。<br>
-    如果出现Express界面则成功。
+    进行测试<br>
+    如果出现Express界面则成功
