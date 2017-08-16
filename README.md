@@ -10,17 +10,17 @@
       克隆本项目<br>
       ```Bash
       git pull origin develop
-      ```<br>
+      ```
       拉取并合并develop分支<br>
 2. 导航至本项目文件夹`TaxiTrajectory-website`或`TaxiTrajectory-website-develop`中并执行<br>
       ```Bash
       npm install
-      ```<br>
+      ```
       安装依赖项<br>
 3. 导航至本文件夹中的的子文件夹`bin`中并执行<br>
       ```Bash
       node www
-      ```<br>
+      ```
   启动本服务<br>
 4. 在本地浏览器中输入<br>
       ```Bash
