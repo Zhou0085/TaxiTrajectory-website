@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+*.suo
+*.sqlite
+/.vs/ProjectSettings.json
