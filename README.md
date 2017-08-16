@@ -1,9 +1,9 @@
 # TaxiTrajectory-website
 大学生创新大赛 基于出租车轨迹的医院选址分析 网站
 ## 部署方法
-1. 下载或克隆本项目
-       1. 将本项目的develop下载到指定文件夹并解压即可<br>
-       2. 或在本地执行以下命令<br>
+1. 下载或克隆本项目<br>
+       * 将本项目的develop下载到指定文件夹并解压即可<br>
+       * 或在本地执行以下命令<br>
        ```
        git clone https://github.com/CS-Tao/TaxiTrajectory-website.git
        ```<br>
